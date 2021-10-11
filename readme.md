@@ -1,6 +1,6 @@
 This repository contains code to reproduce results for submission NeurIPS 2021, "Momentum Centering and Asynchronous Update for Adaptive Gradient Methods".
 
-This repo heavily depends on the official implementation of AdaBound: https://github.com/Luolc/AdaBound and AdaBelief: https://github.com/juntang-zhuang/Adabelief-Optimizer.
+This repo heavily depends on the official implementation of AdaBound: https://github.com/Luolc/AdaBound and AdaBelief: https://github.com/juntang-zhuang/Adabelief-Optimizer. 
 
 ### Dependencies
 python 3.7
